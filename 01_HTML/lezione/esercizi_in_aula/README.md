@@ -41,7 +41,7 @@
  05- Creazione di una form come da immagine
  -----------
  1. Crea una form che rispetti le caratteristiche dell'immagine 
- ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05/esempio.png))
+ ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/05/exempio.png)
  2. Quando viene premuto il pulsante "submit" per ora non succede niente, si vedrà successivamente con PHP
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05)
  
