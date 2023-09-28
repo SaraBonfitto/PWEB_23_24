@@ -45,7 +45,7 @@ Primi passi con HTML: le form, i tipi di input, tinymce
  
  
  
-   06- [HTML5]([https://github.com/SaraBonfitto/PWEB_23_24/01_HTML/lezione/esempi_in_aula/05](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/5))
+   06- [HTML5](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/5)
  -----------
  
 Primi passi con HTML: gli elementi semantici introdotti da HTML5 per strutturare una pagina
