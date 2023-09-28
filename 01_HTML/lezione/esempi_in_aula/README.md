@@ -37,7 +37,7 @@ Primi passi con HTML: esempi di contenitori di tipo blocco e inline
  [Contenitori](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/04_blocco_e_inline.html)
  
  
-   05- [Form](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/4)
+   05- [Form](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/5)
  -----------
  
 Primi passi con HTML: le form, i tipi di input, tinymce
@@ -45,9 +45,9 @@ Primi passi con HTML: le form, i tipi di input, tinymce
  
  
  
-   06- [HTML5](https://github.com/SaraBonfitto/PWEB_23_24/01_HTML/lezione/esempi_in_aula/05)
+   06- [HTML5]([https://github.com/SaraBonfitto/PWEB_23_24/01_HTML/lezione/esempi_in_aula/05](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/5))
  -----------
  
 Primi passi con HTML: gli elementi semantici introdotti da HTML5 per strutturare una pagina
- [HTML5](https://github.com/SaraBonfitto/PWEB_23_24/01_HTML/lezione/esempi_in_aula/05)
+ [HTML5](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/5)
  
