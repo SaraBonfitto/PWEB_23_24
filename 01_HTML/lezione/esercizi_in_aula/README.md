@@ -40,29 +40,39 @@
 
  05- Creazione di una form come da immagine
  -----------
- 1. Crea una form che rispetti le caratteristiche dell'immagine 
+ 1. Crea una form che rispetti le caratteristiche dell'immagine
+
+    
  ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/05/exempio.png)
+
+ 
  2. Quando viene premuto il pulsante "submit" per ora non succede niente, si vedrà successivamente con PHP
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05)
  
  06- Creazione di una form come da immagine 2
  -----------
- 1. Crea una form che rispetti le caratteristiche dell'immagine 
- ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06/esempio.png))
+ 1. Crea una form che rispetti le caratteristiche dell'immagine
+
+
+ ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/06/esempio.png)
+ 
  2. Quando viene premuto il pulsante "submit" per ora non succede niente, si vedrà successivamente con PHP
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06)
  
   07- Creazione di una tavola pitagorica come da immagine
  -----------
- 1. Crea una tavola pitagorica per la tabellina del 5 che rispetti le caratteristiche dell'immagine 
- ![Tavola Pitagorica](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07/esempio.png))
+ 1. Crea una tavola pitagorica per la tabellina del 5 che rispetti le caratteristiche dell'immagine
+    
+ ![Tavola Pitagorica](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/07/esempio.png)
 
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07)
  
   08- Creazione di una pagina Web
  -----------
  1. Realizzare una pagina Web come raffigurato
- ![pagina Web](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/08/esempio.png) "pagina Web")
+    
+ ![pagina Web](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/08/esempio.png)
+
  2. L’utente deve:
 	⋅⋅⋅Inserire nome e cognome
     ⋅⋅⋅Specificare se è maschio o femmina
