@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Prova per creare un form</title>
+	</head>
+	
+	<body>
+	   
+		<form method="" action="">
+		  <table> 
+				<tr>
+					<td>Qual è il tuo nome?: </td><td><input type = "text" name = "nome"></td>
+				</tr>
+				<tr>
+					<td>Data Nascita: </td><td><input type = "date" name = "data"/></td>
+				</tr>
+				<tr>
+					<td>Email: </td><td><input type = "email" name = "email"></td>
+				</tr>
+				<tr>
+					<td>Quale giorno desideri per la consegna?: </td><td>
+                                             <!-- <input type = "email" name = "week"/>  -->					
+					                          <select name="giorno">
+											  <option value="LU">Lunedì</option>
+											  <option value="MA">Martedì</option>
+											  <option value="ME">Mercoledì</option>
+											  <option value="GI">Giovedì</option>
+											  <option value="VE">Venerdì</option>
+											  <select>
+					</td>
+				</tr>
+				<tr>
+					<td>Come vuoi effettuare il pagamento: </td><td>
+					
+								<input type = "radio" name = "consegna"  value="ASS">Assegno</option>
+								<input type = "radio" name = "consegna"  value="CC">Carta di credito</option>
+								<input type = "radio" name = "consegna"  value="C">Contanti</option>
+					</td>
+				</tr>
+				
+				
+				
+				<tr>
+					<td colspan="2" align="center"><input type= "submit" value= "OK"/>
+					    <input type = "reset" value = "Cancella"/>
+						
+					</td>
+				</tr>
+			</table>
+		</form>
+				
+	</body>
+</html>

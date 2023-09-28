@@ -1,0 +1,10 @@
+L'immagine dell'esercizio 1) era posizionata sotto al link
+perché era troppo grande per essere messa di seguito.
+
+Con il ridimensionamento dell'immagine, i vari elementi hanno acquisito nuovamente il
+comportamento di default.
+Essendo entrambi di tipo "inline" (sia il tag <a> sia il tag <img>)
+si posizionano uno a fianco all'altro.
+
+Una possibile soluzione è quella di inserire l'immagine all'interno di un 
+<div> che, essendo di tipo blocco, si posiziona sempre su una nuova riga

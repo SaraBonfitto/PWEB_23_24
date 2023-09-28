@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <title>Form web</title>
+  </head>
+  <body>
+   <h1>Esempio di form (ancora incompleto)</h1>
+   <form action="save_data.php" method="post">
+    <fieldset>
+    <legend>Dati personali</legend>
+    <strong>Nome</strong><br>
+    <input type="text" name="nome"><br>
+    <strong>Cognome</strong><br>
+    <input type="text" name="cognome"><br>
+    <strong>Data di nascita</strong><br>
+    <input type="text" name="datanascita"><br>
+    <strong>Luogo di nascita</strong><br>
+    <input type="text" name="luogonascita"><br>
+    </fieldset>
+    <fieldset>
+    <legend>Hobby</legend>
+    <input type="checkbox" name="cinema"> <strong>Cinema</strong><br>
+    <input type="checkbox" name="teatro"> <strong>Teatro</strong><br> 
+    <input type="checkbox" name="fotografia"> <strong>Fotografia</strong><br>
+    <input type="checkbox" name="lettura"> <strong>Lettura</strong> 
+    </fieldset>
+    <fieldset>
+    <legend>Sport</legend>
+    <input type="checkbox" name="calcio"> <strong>Calcio</strong><br>
+    <input type="checkbox" name="pallacanestro"> <strong>Pallacanestro</strong><br> 
+    <input type="checkbox" name="pallavolo"> <strong>Pallavolo</strong><br>
+    <input type="checkbox" name="nuoto"> <strong>Nuoto</strong> 
+    </fieldset>
+    <input type="submit" value="Invia i dati">
+    <input type="reset" value="Cancella">
+   </form> 
+  </body>
+</html> 
