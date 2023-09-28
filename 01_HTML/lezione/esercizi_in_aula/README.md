@@ -41,21 +41,21 @@
  05- Creazione di una form come da immagine
  -----------
  1. Crea una form che rispetti le caratteristiche dell'immagine 
- ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05/esempio.png) "Form di esempio")
+ ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05/esempio.png))
  2. Quando viene premuto il pulsante "submit" per ora non succede niente, si vedrà successivamente con PHP
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05)
  
  06- Creazione di una form come da immagine 2
  -----------
  1. Crea una form che rispetti le caratteristiche dell'immagine 
- ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06/esempio.png) "Form di esempio")
+ ![Form di esempio](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06/esempio.png))
  2. Quando viene premuto il pulsante "submit" per ora non succede niente, si vedrà successivamente con PHP
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06)
  
   07- Creazione di una tavola pitagorica come da immagine
  -----------
  1. Crea una tavola pitagorica per la tabellina del 5 che rispetti le caratteristiche dell'immagine 
- ![Tavola Pitagorica](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07/esempio.png) "Tavola pitagorica")
+ ![Tavola Pitagorica](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07/esempio.png))
 
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07)
  
@@ -64,10 +64,10 @@
  1. Realizzare una pagina Web come raffigurato
  ![pagina Web](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/08/esempio.png) "pagina Web")
  2. L’utente deve:
-	...Inserire nome e cognome
-    ...Specificare se è maschio o femmina
-    ...Scegliere (anche più di una) delle attività che gli piacciano in una lista formata da sci, tennis, golf, canoa, altro
-    ...Confermare la lettura delle condizioni di utilizzo
+	⋅⋅⋅Inserire nome e cognome
+    ⋅⋅⋅Specificare se è maschio o femmina
+    ⋅⋅⋅Scegliere (anche più di una) delle attività che gli piacciano in una lista formata da sci, tennis, golf, canoa, altro
+    ⋅⋅⋅Confermare la lettura delle condizioni di utilizzo
 
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/08)
  
@@ -76,9 +76,9 @@
  -----------
 L’azienda «Ponte Nuovo s.r.l», grossista di frutta e verdura, vuole creare un sito web per pubblicizzare i suoi prodotti.
 La pagina principale deve mostrare:
- ...Il nome e indirizzo dell’azienda
- ...Il logo
- ...La possibilità di loggarsi al sito e una serie di funzionalità che sono accessibili da tutti i visitatori 
+ ⋅⋅⋅Il nome e indirizzo dell’azienda
+ ⋅⋅⋅Il logo
+ ⋅⋅⋅La possibilità di loggarsi al sito e una serie di funzionalità che sono accessibili da tutti i visitatori 
      (contatti, prodotti – frutta, verdure, ricerca testuale)
   Si chiede di progettare la pagina principale del sito di questa azienda. 
   In particolare bisogna decidere in quante sezioni dividere la pagina e quali informazioni/funzionalità
