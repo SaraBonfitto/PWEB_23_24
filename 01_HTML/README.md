@@ -2,7 +2,7 @@
  =======
  
 La sezione è suddivisa in:
-
+```bash
 |__ altri             -> in questa cartella ci sono esercizi che **non** sono stati visti a lezione
 |		|__README.md  -> è un file che contiene la traccia degli esercizi
 |		|__soluzioni  -> è una directory che contiene le soluzioni degli esercizi		
@@ -13,4 +13,4 @@ La sezione è suddivisa in:
 						|__README.md  -> è un file che contiene la traccia degli esercizi visti in aula
 						|__soluzioni -> è una directory che contiene le soluzioni agli esercizi visti in aula
  
-
+```
