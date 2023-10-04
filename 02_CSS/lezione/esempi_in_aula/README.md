@@ -37,7 +37,7 @@ Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraB
 06- Media queries
  -----------
  Esempio sull'utilizzo delle media queries. Ridimensionare la pagina per verificarne il funzionamento 
- [qui](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/06/prova_funzionamento.html)
+ [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/06/prova_css.html)
  
  
 07- Cascading
