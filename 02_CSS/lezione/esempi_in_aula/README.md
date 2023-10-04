@@ -23,15 +23,15 @@ Stili di liste ordinate e non ordinate [qui](https://github.com/SaraBonfitto/PWE
 04- Pseudo elementi
  -----------
  
-Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/04/index.html)
+Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/04/index.html)
  
  
 05- Posizionamento
  -----------
  
- Posizionamento di elementi di blocco e inline [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/05/paginaStile.html)
+ Posizionamento di elementi di blocco e inline [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/05/paginaStile.html)
  
- Posizionamento usando il [float](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/05/float.html)
+ Posizionamento usando il [float](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/05/float.html)
 
 
 06- Media queries
