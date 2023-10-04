@@ -1,0 +1,15 @@
+  body {background-color:white}
+  .domanda {color:#862828; font-size: 25px}
+  .risposta {color:green}
+  
+ a{
+	 font-size:18pt;
+	 color: black;
+ }
+ 
+ a:hover{
+	color: blue;
+ }
+ a:active{
+	color: yellow;
+ }

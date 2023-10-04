@@ -1,0 +1,16 @@
+p{
+	color: green;
+	font-size: 12pt;
+	font-family: "Arial";
+	text-align:center;
+	font-weight:  bold;
+}
+
+td{
+	background-color:blue;
+	color:white;
+	width:100px;
+	font-family: "Arial";
+	font-weight: bold;
+
+}
