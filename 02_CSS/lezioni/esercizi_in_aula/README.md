@@ -17,7 +17,7 @@
 
  02- Colorare un testo:
  -----------
- 1. Scaricare il seguente [file](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/altri/dati/interviste.html)
+ 1. Scaricare il seguente [file](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/altri/dati/intervista.html)
  2. Il file contiene un’intervista. Usando i fogli di stile, fai in modo che le domande siano in rosso e le risposte in verde
  3. Scegli un RGB [qui](https://www.rapidtables.com/web/color/RGB_Color.html)
 
