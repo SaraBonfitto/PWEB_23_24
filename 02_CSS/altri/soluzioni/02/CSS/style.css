@@ -1,0 +1,12 @@
+#container {
+	border: 1px solid black;
+	display: table;
+	height: 640px;
+	width: 1024px;
+}
+
+#element {
+	background: blue;
+	display:table-cell;
+	vertical-align:middle;
+}

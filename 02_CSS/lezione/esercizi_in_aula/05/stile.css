@@ -1,0 +1,27 @@
+tr th{
+	background:#808080;
+	border: 1px solid black;
+}
+
+table{
+	border: 1px solid black;
+	width:200px;
+	height: 200px;
+	table-layout:fixed;
+	border-collapse: collapse;
+	margin: auto;
+}
+
+td{
+	border: 1px solid black;
+}
+
+h1{
+	color:#007D04;
+}
+
+#container{
+    width: 50%;
+	margin: 0 auto;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+ #element{
+    background: red;
+    bottom: 0;
+    left: 0;
+	top: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+	height: 200px;
+	width: 200px;
+}
+#container {
+    border:5px solid black; 
+    position: relative;
+    height: 400px;   
+    width: 400px;    
+}
