@@ -1,8 +1,7 @@
  Esempi in aula
  =======
  
- 
-	01- #Titolo e paragrafi
+ #01- Titolo e paragrafi
  -----------
  
 Impostare lo stile interno di un titolo e di un paragrafo [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/01/titolo_e_paragrafo.html)
