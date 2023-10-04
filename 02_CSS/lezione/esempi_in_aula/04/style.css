@@ -1,0 +1,14 @@
+body{
+	font-family: Arial, sans-serif;
+}
+
+p:first-letter{
+	color: green;
+	font-size:50pt;
+	font-style:italic;
+}
+
+p:first-line{
+	color:blue;
+	font-style:italic;
+}

@@ -1,0 +1,22 @@
+#prova {
+	background-color:yellow;
+	width:500px;
+	height: 400px;
+}
+
+@media screen and (max-width: 576px) {
+	#prova {
+		background-color:red;
+	}
+}
+@media screen and (min-width: 576px) and (max-width: 768px) {
+	#prova {
+		background-color:green;
+	}
+}
+
+@media screen and (min-width: 768px) {
+  #prova{
+    background-color: pink;
+  }
+}

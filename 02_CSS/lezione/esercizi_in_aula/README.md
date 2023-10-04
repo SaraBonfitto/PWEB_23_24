@@ -1,6 +1,13 @@
  Esercizi in aula
  =======
- 
+ 00- Hello World
+ -----------
+ 1. Prendere il file HelloWorld.html realizzato durate la lezione precedente
+ 2. Rimuovere l’attributo «bgcolor» dal body
+ 3. Usare un foglio di stile esterno per rendere nuovamente lo sfondo giallo
+	Suggerimento: cercare "google color picker"
+
+[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/00)
  
  01- Posizionamento di un DIV:
  -----------
@@ -12,7 +19,7 @@
  3. Posizionare l’immagine al centro (orizzontalmente) della pagina in modo tale che, 
     ridimensionando la finestra del browser, rimanga al centro
 
-[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezioni/esercizi_in_aula/01)
+[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/01)
 
 
  02- Colorare un testo:
@@ -21,7 +28,7 @@
  2. Il file contiene un’intervista. Usando i fogli di stile, fai in modo che le domande siano in rosso e le risposte in verde
  3. Scegli un RGB [qui](https://www.rapidtables.com/web/color/RGB_Color.html)
 
-[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezioni/esercizi_in_aula/02)
+[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/02)
 
  03- Modifica all'esercizio 2
  -----------
@@ -56,9 +63,18 @@
  
  06- CSS di una login
  -----------
- Si consideri la pagina HTML  ![pagina1](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezioni/esercizi_in_aula/immagine2_bis.png).
- Si vuole ottenere il seguente effetto  ![pagina2](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezioni/esercizi_in_aula/immagine2.png)
+ Si consideri la pagina HTML  
+
+ ![pagina1](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/immagine2_bis.png).
+ 
+ 
+ Si vuole ottenere il seguente effetto  
+ 
+ ![pagina2](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/immagine2.png)
+ 
+ 
+ 
  Si può usare l'esercizio  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/05/esercizio_con_colspan.html)
  e modificarlo
  
-[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezioni/esercizi_in_aula/06)
+[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/06)

@@ -1,0 +1,12 @@
+
+.important{
+	color: blue;
+	font-weight: bold;
+}
+h1{
+	color: green;
+}
+#superImportant{
+	color: red;
+	text-transform: uppercase;
+}

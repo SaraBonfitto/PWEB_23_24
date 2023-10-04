@@ -1,0 +1,23 @@
+#container{
+}
+#header{
+	  background-color: #333;
+
+}
+#navbar{
+  background-color: #333;
+
+}
+#sidebar{
+  background-color: #333;
+	
+}
+#content{
+	  background-color: #333;
+}
+
+
+a{
+	display:block;
+}
+
