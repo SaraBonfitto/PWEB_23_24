@@ -47,7 +47,7 @@ Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraB
 	2. CSS interno
 	3. CSS esterno
 	4. stile di default del browser
- [qui](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/07/prova_funzionamento.html)
+ [qui](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/07/prova_css.html)
  Questo significa che in presenza di stili sia inline sia esterni, verrà scelto prima quello inline.
  La proprietà cascading vale anche sull'importazione dei fogli esterni, l'ultimo importato ha la priorità su tutti.
  Last write wins.
