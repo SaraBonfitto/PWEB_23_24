@@ -23,21 +23,21 @@ Stili di liste ordinate e non ordinate [qui](https://github.com/SaraBonfitto/PWE
 04- Pseudo elementi
  -----------
  
-Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/04/index.html)
+Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/04/index.html)
  
  
 05- Posizionamento
  -----------
  
- Posizionamento di elementi di blocco e inline [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/05/paginaStile.html)
+ Posizionamento di elementi di blocco e inline [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/05/paginaStile.html)
  
- Posizionamento usando il [float](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esempi_in_aula/05/float.html)
+ Posizionamento usando il [float](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/05/float.html)
 
 
 06- Media queries
  -----------
  Esempio sull'utilizzo delle media queries. Ridimensionare la pagina per verificarne il funzionamento 
- [qui](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/06/prova_funzionamento.html)
+ [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/06/prova_css.html)
  
  
 07- Cascading
@@ -47,7 +47,9 @@ Esempio di uso di uno pseudo elemento su un testo [qui](https://github.com/SaraB
 	2. CSS interno
 	3. CSS esterno
 	4. stile di default del browser
- [qui](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esempi_in_aula/07/prova_css.html)
+
+ [qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esempi_in_aula/07/prova_css.html)
+
  Questo significa che in presenza di stili sia inline sia esterni, verrà scelto prima quello inline.
  La proprietà cascading vale anche sull'importazione dei fogli esterni, l'ultimo importato ha la priorità su tutti.
  Last write wins.
