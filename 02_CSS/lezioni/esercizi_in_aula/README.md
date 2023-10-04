@@ -27,6 +27,7 @@
  -----------
  1. Crea una copia dell'esercizio 2
  2. Metti in verde le domande e in rosso le risposte
+ 
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/03)
 
  04- Creazione di un link
@@ -39,7 +40,7 @@
 	- Far diventare il testo Marco Rossi blu quando ci si posiziona sopra con il mouse
 	- Far diventare il testo Marco Rossi giallo quando viene cliccato
 
-  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/04)
+ [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/04)
 
 
  05- Creazione di un link
@@ -55,8 +56,9 @@
  
  06- CSS di una login
  -----------
- Si consideri la pagina HTML  ![pagina1](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/immagine2_bis.png).
- Si vuole ottenere il seguente effetto  ![pagina2](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/immagine2.png)
- Si può usare l'esercizio  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/06/esercizio_con_colspan.html)
+ Si consideri la pagina HTML  ![pagina1](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezioni/esercizi_in_aula/immagine2_bis.png).
+ Si vuole ottenere il seguente effetto  ![pagina2](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezioni/esercizi_in_aula/immagine2.png)
+ Si può usare l'esercizio  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/esercizi_in_aula/05/esercizio_con_colspan.html)
  e modificarlo
  
+[Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezioni/esercizi_in_aula/06)
