@@ -1,0 +1,9 @@
+h1 {
+	color:red;
+}
+body{
+	background-image: url('../esempi/esempio_css/immagine.jpg'), url('../esempi/esempio_css/R.jfif');
+	background-repeat: no-repeat; 
+	background-position: top left, bottom left;
+
+}
