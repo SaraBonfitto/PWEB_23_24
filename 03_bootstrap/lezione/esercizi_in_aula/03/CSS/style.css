@@ -1,0 +1,13 @@
+.home_text{
+	font-family:Poppins,Roboto,Helvetica,Arial,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	
+}
+
+.content{
+	padding-top:50px; 
+	padding-bottom: 100px; 
+	background-color:#05063a;	
+	color:white;
+}

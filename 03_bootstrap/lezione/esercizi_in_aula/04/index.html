@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>To-Do List App</title>
+		<!-- Collegamento ai file CSS di Bootstrap 5 -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+		<!-- Collegamento a un file CSS personalizzato per il design -->
+
+	</head>
+	<body>
+
+		<!-- Navbar -->
+
+		<nav  class="navbar navbar-expand-lg bg-body-tertiary">
+			<div class="container">
+			
+				<a class="navbar-brand d-flex" href="#">
+				
+				<!-- parte modificata rispetto al codice di bootstrap -->
+				<img src="images/logo.png"   height="75" class="d-inline-block">
+					<span class="ml-3">To Do List Online<br><small>Gestisci al meglio il tuo tempo</small>
+					</span>
+				</a>
+
+				
+				<!-- questo pulsante rappresenta le classiche tre righette orizzontali per visualizzare i menu su dispositivi mobili
+				sotto alla dimensione lg indicata nella class del tag nav-->
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+						aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				
+				
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a class="nav-link" href="#">Login</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Registrati</a>
+						</li>
+					</ul>
+				</div>
+
+			</div>
+		</nav>
+
+		<!-- Features Section -->
+		<section class="features py-5">
+			<div class="container" style="background-color:#05063a;">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="feature">
+							<i class="bi bi-list-check"></i>
+							<h1 class="display-4 text-secondary bold">Un nuovo modo di lavorare.</h1>
+							<p class="display-6 text-secondary">Tieni tutto sempre a portata di mano.</p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<img src="images/sfondo.jpg" class="img-fluid">
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Footer -->
+		<footer class="footer bg-body-tertiary py-4">
+			<div class="container text-center">
+					<div class="col-auto"><div class="small m-0">Copyright &copy; Your Website 2023</div></div>
+					<div class="col-auto">
+						<a class="small" href="#!">Privacy</a>
+						<span class="mx-1">&middot;</span>
+						<a class="small" href="#!">Terms</a>
+						<span class="mx-1">&middot;</span>
+						<a class="small" href="#!">Contact</a>
+					</div>			</div>
+		</footer>
+
+	<!-- Collegamento ai file JavaScript di Bootstrap 5 -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+	</body>
+</html>
