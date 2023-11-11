@@ -10,15 +10,17 @@
 
  Nell'[esempio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/01),
  prima di includere il [foglio di stile](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/01/stili/stile.css),
- la visualizzazione della tabella nel file `agenda.php` non è ideale, comme illustrato nell'![immagine](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/01/immagine.png)
+ la visualizzazione della tabella nel file `agenda.php` non è ideale, comme illustrato nell'immagine ![immagine](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/01/immagine.png)
  
  Per migliorare la visualizzazione viene incluso un foglio di stile che, sfruttando i selettori di tipo,
- associa un colore di sfondo ed un posizionamento per i vari elementi.
+ associa un colore di sfondo ed un posizionamento ai vari elementi.
  
  Si ricorda che per visualizzare una pagina PHP in locale, occorre usare un server Web come Apache, 
  disponibile insieme a PHP e MySQL su XAMPP.
  
  02 - Tavola pitagorica
+ -----------
+
  Riprendendo l'[esercizio 5](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula#05--creazione-di-un-link)
  di CSS, in questo [esempio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/02) 
  viene riproposta la versione HTML dell'esercizio e una nuova versione PHP.
@@ -57,11 +59,12 @@ Per la realizzazione di questa funzionalità si devono considerare tre strutture
 
 In questo esercizio le tre strutture dati devono essere passate, attraverso il metodo GET, dallo script PHP alla pagina della form.
 Vedremo nel prossimo esercizio che questo non è necessario quando si utilizzano le sessioni. 
+
 [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/04/datiUtente.php) 
 
  05- Uso delle sessioni
  -----------
- Partendo dall'[esercizio precedente]Partendo dall'[esercizio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esercizi_in_aula/04/datiUtente.php),
+Partendo dall'[esercizio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/04/datiUtente.php),
  in questo esercizio si vuole costruire una applicazione Web che permetta di effettuare il login e
  che richieda delle informazioni aggiuntive all'utente. 
  Si vogliono quindi combinare i due esercizi precedenti facendo uso delle sessioni. 
@@ -93,7 +96,7 @@ su un DBMS.
  Nell'esercizio si parte da una strutturazione del codice e della pagina di vecchia concezione,
  come si può vedere dal [punto di partenza](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/07/punto_partenza) 
  
- Nella seconda parte dell'[esercizio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/07/soluzioni) 
+ Nella seconda parte dell'[esercizio](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/04_PHP/lezione/esempi_in_aula/07/soluzione) 
  si presentano le stesse funzionalità organizzate e realizzate in modo più professionale utilizzando:
  1- Bootstrap per la visualizzazione; 
  2- Funzioni per la realizzazione delle operazioni; 
