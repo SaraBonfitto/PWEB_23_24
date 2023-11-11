@@ -50,7 +50,7 @@
  [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/04)
 
 
- 05- Creazione di un link
+ 05- Tavola pitagorica
  -----------
  
  1. Recuperare l'esercizio 7 fatto in html [esercizio 7](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/07)
@@ -78,3 +78,15 @@
  e modificarlo
  
 [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/06)
+
+ 07- Pagina Web
+ -----------
+ In questo esercizio si chiede di replicare la pagina Web illustrata nell'![immagine](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/tartaruga.png).
+ Usando CSS e HTML.
+ 
+ L'immagine da inserire nell'HTML si trova ![qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/07/tartaruga.jpg)
+ 
+ 
+ [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/07)
+
+ 

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Campionato di Calcio">
+    <meta name="author" content="Marco Mesiti">
+
+    <title>Campionato di Calcio</title>
+
+    <!-- Bootstrap core CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link href="css/my.css" rel="stylesheet">
+
+
+  </head>
+
+  <body>
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <img src="images/logo2.png"  height="50" width="50"/>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="index.html">Home</a></li>
+            
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Squadre <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Visualizza</a></li>
+                <li><a href="#">Inserisci</a></li>
+              </ul>
+            </li>
+			<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Partite <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Visualizza</a></li>
+                <li><a href="classifica.html">Classifica</a></li>
+                <li role="separator" class="divider"></li>
+                <!-- <li class="dropdown-header">Nav header</li> -->
+                <li><a href="#">Inserisci Risultati</a></li>
+				<li role="separator" class="divider"></li>
+                <!-- <li class="dropdown-header">Nav header</li> -->
+                <li><a href="#">Svuota</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+			<li><a href="#"><span class="glyphicon glyphicon-user"></span> Registrazione</a></li>
+			<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+
+    <div class="container">
+
+      <!-- Main component for a primary marketing message or call to action -->
+      <div class="well">
+        <h1>Corpo della pagina</h1>
+        <p>Qui vanno inserite le pagine e le funzionalit&agrave; realizzate attraverso php</p>
+
+		<form   name="inserimento" action="" method="GET">
+				
+		<div class="row">
+			<div class="form-group row">
+			   <div class="col-xs-1">
+			   </div>
+				<div class="col-xs-3">
+				<label for="ex1">Casa</label>
+				<select type="text"  class="form-control" id="ex1" name = "squadra1" >
+					<option>Genoa</option>
+					<option>Milan</option>
+					<option>Inter</option>
+					<option>Sampdoria</option>
+				</select>
+				</div>
+				<div class="col-xs-3">
+				<label for="ex2">Ospite</label>
+				<select type="text" class="form-control" id="ex2" name = "squadra2" >
+					<option>Genoa</option>
+					<option>Milan</option>
+					<option>Inter</option>
+					<option>Sampdoria</option>
+				</select>
+				</div>
+				<div class="col-xs-2">
+				<label for="ex3">Goal Casa</label>
+				<input type="number"  class="form-control" id="ex3" name = "ris1"  min="0" max="10" value="0"/>
+				</div>
+				<div class="col-xs-2">
+				<label for="ex4">Goal Ospite</label>
+				<input type="number" class="form-control" id="ex4" name = "ris2"  min="0" max="10" value="0"/>
+				</div>
+			</div>	
+		</div>	
+			
+		<div class="row">
+				<div class="col-xs-1">
+			   </div>
+			<input type="submit" class="btn btn-default" value = "ok" />
+			<input type="reset" class="btn btn-default" value = "cancella" />
+		</div>	
+	</form>    
+      </div>
+
+    </div> <!-- /container -->
+
+	<div class="footer">
+      <div class="container">
+        <p class="text-muted">Gestione del campionato di calcio. Tutti i diritti riservati</p>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Inserimento dati Pullman </title>
+    </head>
+    <body>
+        <hi> Inserisci i dati di un pullman </hi>
+        <p>
+            In questa sezione potrai inserire un nuovo pullman
+            all’interno del database.
+        </p>
+        <form name="form_ins_pullman"
+            action="inserisci_pullman_nel_db.php"
+            method="POST">
+            Marca:
+            <input type="text" name="marca" required>
+            <br>
+            Modello:
+            <input type="text" name="modello" required>
+            <br>
+            Capienza:
+            <select name="capienza">
+                <option value="20"> Piccolo - 20 persone </option>
+                <option value="40"> Medio - 40 persone </option>
+                <option value="60"> Grande - 60 persone </option>
+            </select>
+            <br>
+            <input type="reset" name="pulisci_form"
+                value="Pulisci form">
+            <input type="submit" name="invia_dati_pullman"
+                value="Inserisci pullman">
+            <br>
+        </form>
+    </body>
+</html>

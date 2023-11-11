@@ -1,4 +1,4 @@
- Esercizi CSS
+ Esercizi PHP
  =======
  
 La sezione è suddivisa in:

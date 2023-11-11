@@ -1,0 +1,61 @@
+body {
+font-family: Tahoma, Arial;
+margin: 0px 0px 0px 0px;
+}
+
+
+
+.logo {
+position:fixed;
+top:0px;
+left:0px;
+width:180px;
+height:120px;
+}
+
+.titolo {
+color:blue;
+position:absolute;top:5px;left:200px;
+font-size: 12px;
+font-weight: bold;
+width:100%;
+}
+
+.corpo{
+position:absolute;top:120px;left:180px;
+width: 480px;
+font-size: 14px;
+}
+
+.descrizione{
+position:absolute;top:120px;left:680px;
+font-size: 10px;
+width: 120px;
+}
+
+#menu {
+position:fixed;top:120px;left:0px;
+width: 170px;
+background-color:green; 
+font-size: 12px;
+color:yellow;
+text-align: left;
+vertical-align:bottom;
+padding-top: 3px;
+}
+
+#menu a:link {
+color:white;
+text-decoration: none;
+}
+
+#menu a:visited {
+color:white;
+text-decoration: none;
+}
+
+#menu a:hover {
+color:white;
+text-decoration: underline;
+}
+
