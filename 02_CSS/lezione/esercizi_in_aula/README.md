@@ -35,7 +35,7 @@
  1. Crea una copia dell'esercizio 2
  2. Metti in verde le domande e in rosso le risposte
  
- [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/03)
+ [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/03)
 
  04- Creazione di un link
  -----------
@@ -47,7 +47,7 @@
 	- Far diventare il testo Marco Rossi blu quando ci si posiziona sopra con il mouse
 	- Far diventare il testo Marco Rossi giallo quando viene cliccato
 
- [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/04)
+ [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/04)
 
 
  05- Tavola pitagorica
@@ -58,7 +58,7 @@
  ![qui](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/02_CSS/lezione/esercizi_in_aula/immagine.png)
 
  
- [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/01_HTML/lezione/esercizi_in_aula/05)
+ [Soluzioni](https://github.com/SaraBonfitto/PWEB_23_24/tree/main/02_CSS/lezione/esercizi_in_aula/05)
  
  
  06- CSS di una login
