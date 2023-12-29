@@ -1,7 +1,8 @@
  Esercizi HTML
  =======
  
- 01- [Fatturazione elettronica](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/lezione/altri/01.html)
+ 01- [Fatturazione elettronica](https://github.com/SaraBonfitto/PWEB_23_24/blob/main/01_HTML/altri/soluzioni/01.html)
+ 
  -----------
 Creare una form per l'inserimento di una fattura elettronica.
 La form è così composta:

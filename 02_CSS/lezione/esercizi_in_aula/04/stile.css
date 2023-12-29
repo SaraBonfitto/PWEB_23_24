@@ -13,3 +13,6 @@
  a:active{
 	color: yellow;
  }
+ a:visited{
+	color: green;
+ }
